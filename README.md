@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Diogo Rolim</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogorolim441" alt="diogorolim441" /></a> </p>
 
 - 🌱 I’m currently learning **C/C# and Game Engine (Unity)**
 
