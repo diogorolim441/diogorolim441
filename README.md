@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Rolim</h1>
-- 🌱 I’m currently learning **C/C# and Game Engine (Unity)**
+- 🌱 I’m currently learning *C/C# and Game Engine (Unity)*
 
 - 👯 I’m looking to collaborate on **College Works**
 
