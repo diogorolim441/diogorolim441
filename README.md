@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **College Works**
 
-- ⚡ Fun fact **Fun fact I'm listening to music all the time**
+- ⚡ Fun fact **I'm listening to music all the time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
